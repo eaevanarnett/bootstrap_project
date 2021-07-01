@@ -1,0 +1,63 @@
+.col-sm2 img {
+    width: 350px;
+    height: 300px;
+    padding-inline: 10px;
+    border-radius: 10%;
+    margin-left: 15px;
+}
+
+.col-sm2 h5 {
+    text-align: center;
+    color: white;
+}
+
+.col-sm2 p {
+    width: 350px;
+    text-align: center;
+    color: white;
+}
+
+a.badge {
+    margin-left: 165px;
+    justify-content: center;
+}
+
+.jumbotron {
+    border: 5px solid gold;
+}
+
+.display-4 {
+    font-variant: small-caps;
+}
+
+#inventory {
+    border: 5px solid gold;
+}
+
+#inventory h3 {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-weight: lighter;
+    font-size: 3em;
+}
+
+#inventory .row {
+    height: 550px;
+}
+
+#deals.container .card {
+    border: 2px solid gray;
+}
+
+li.nav-item {
+    padding: 20px;
+}
+
+li.nav-item:hover {
+    margin-top: 2px;    
+}
+
+div.card div {
+    text-align: center;
+}
